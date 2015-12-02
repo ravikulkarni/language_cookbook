@@ -109,7 +109,7 @@
 ## 10. Working with Network
 * [Finding your own IP address](Network/Network_FindOwnIPAddress.md)
 * [Finding your own name of the machine](Network/Network_FindingYourMachineName.md)
-* Implementing TCP client
-* Implementing TCP server
-* Implementing UDP client
-* Implementing UDP server
+* [Implementing TCP client](Network/Network_TCPClient.md)
+* [Implementing TCP server](Network/Network_TCPServer.md)
+* [Implementing UDP client](Network/Network_UDPClient.md)
+* [Implementing UDP server](Network/Network_UDPServer.md)
