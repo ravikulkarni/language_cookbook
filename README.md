@@ -107,7 +107,7 @@
 * Running several commands in Sequence
 
 ## 10. Working with Network
-* [Finding your own IP address](Network_FindOwnIPAddress.md)
+* [Finding your own IP address](Network/Network_FindOwnIPAddress.md)
 * Finding your own name of the machine.
 * Implementing TCP client
 * Implementing TCP server
