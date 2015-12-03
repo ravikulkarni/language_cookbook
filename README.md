@@ -89,13 +89,13 @@
 * Using random access IO
 
 ## 8. Working with Dates and Time
-* Getting default dates
-* Converting dates and times into epoch seconds
-* Converting epoch seconds into dates and times.
-* Date and Time arithmetic
-* Difference of two dates.
-* Formatting dates
-* Sleep
+* [Getting default dates](DatesAndTime/DatesAndTime_GetDefaultDate.md)
+* [Converting dates and times into epoch seconds](DatesAndTime/DatesAndTime_ConvertIntoEpoch.md)
+* [Converting epoch seconds into dates and times](DatesAndTime/DatesAndTime_ConvertFromEpoch.md)
+* [Date and Time arithmetic](DatesAndTime/DatesAndTime_DateTimeArithmetic.md)
+* [Difference of two dates](DatesAndTime/DatesAndTime_DiffTwoDates.md)
+* [Formatting dates](DatesAndTime/DatesAndTime_FormatDates.md)
+* [Sleep](DatesAndTime/DatesAndTime_Sleep.md)
 
 ## 9. Working with System commands
 * [Writing output to terminal window](Systems/System_WritingToTerminalWindow.md)
