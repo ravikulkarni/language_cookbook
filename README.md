@@ -98,13 +98,13 @@
 * Sleep
 
 ## 9. Working with System commands
-* Writing output to terminal window
-* Reading input from terminal window
-* Getting input from a file
-* Writing output to a file.
-* Executing/Running any command
-* Telling if command succeeded or not.
-* Running several commands in Sequence
+* [Writing output to terminal window](Systems/System_WritingToTerminalWindow.md)
+* [Reading input from terminal window](Systems/System_GetInputFromTerminalWindow.md)
+* [Getting input from a file](Systems/System_GetInputFromFile.md)
+* [Writing output to a file](Systems/System_WriteOutputToFile.md)
+* [Executing/Running any command](Systems/System_ExecuteAnyCommand.md)
+* [Telling if command succeeded or not](Systems/System_TestIfCommandSucceeded.md)
+* [Running several commands in Sequence](Systems/System_ExecuteSeveralCommandsInSequence.md)
 
 ## 10. Working with Network
 * [Finding your own IP address](Network/Network_FindOwnIPAddress.md)
