@@ -27,13 +27,13 @@
 * [Sorting strings](Strings/String_SortingString.md)
 
 ## 3. Working with Numbers
-* Rounding floating point numbers
-* Comparing floating point numbers
-* Generating random numbers
-* Making numbers even more random
-* Converting binary, octal and hexadecimal
-* Sorting numbers
-* Checking whether a string is a valid number
+* [Rounding floating point numbers](Numbers/Numbers_RoundingFPNumbers.md)
+* [Comparing floating point numbers](Numbers/Numbers_ComparingFPNumbers.md)
+* [Generating random numbers](Numbers/Numbers_GenerateRandomNumbers.md)
+* [Making numbers even more random](Numbers/Numbers_EvenMoreRandomNumbers.md)
+* [Converting binary, octal and hexadecimal](Numbers/Numbers_ConvertBinOctHex.md)
+* [Sorting numbers](Numbers/Numbers_Sort.md)
+* [Checking whether a string is a valid number](Numbers/Numbers_StringIsValidNumber.md)
 
 ## 4. Working with Arrays
 * Defining/creating arrays
