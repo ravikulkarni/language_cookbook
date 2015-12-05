@@ -1,23 +1,19 @@
 # Language Cookbook
 
 ## 1. Language Basics
-* Variables
-* Getting environment variables
-* Setting environment variables
-* Looping over arguments passed to a script
-* Counting total arguments
-* Reading arguments one after another
-* Operators
-* Conditionals
-* Testing for more than one thing.
-* Testing for equality
-* Branching many ways
-* Loops
-* Subroutines/Functions
-* Accessing subroutine arguments
-* Making variables private in a function
-* Return information to caller.
-* Error handling.
+* [Variables](Basics/Basics_Variables.md#variables)
+  * [Getting environment variables](Basics/Basics_Variables.md#getting-environment-variables)
+  * [Setting environment variables](Basics/Basics_Variables.md#setting-environment-variables)
+  * [Looping over arguments passed to a script](Basics/Basics_Variables.md#looping-over-arguments-passed-to-a-script)
+  * [Counting total arguments](Basics/Basics_Variables.md#counting-total-arguments)
+* [Operators](Basics/Basics_Operators.md)
+* [Conditionals](Basics/Basics_Conditionals.md)
+* [Loops](Basics/Basics_Loops.md)
+* [Subroutines/Functions](Basics/Basics_SubRoutines.md)
+   * [Accessing subroutine arguments](Basics/Basics_SubRoutines.md#accessing-subroutine-arguments)
+   * [Making variables private in a function](Basics/Basics_SubRoutines.md#making-variables-private-in-a-function)
+   * [Return information to caller](Basics/Basics_SubRoutines.md#return-information-to-caller)
+   * [Error handling](Basics/Basics_SubRoutines.md#error-handling)
 
 ## 2. Working with Strings 
 * [Accessing substrings](Strings/Strings_AccessingSubstrings.md)
