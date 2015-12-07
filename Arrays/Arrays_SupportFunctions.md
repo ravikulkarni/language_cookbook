@@ -1,3 +1,5 @@
+# Overall support for Arrays.
+
 Below is a quick comparison on few points. More details are provided in each section.
 
 |   | Perl | Java | C | Bash |
