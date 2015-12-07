@@ -59,16 +59,16 @@
 * [Inverting hash](Hashes/Hashes_Invert.md)
 
 ## 6. Working with Directories
-* Deleting a file
-* Copying a file
-* Moving a file
-* Processing all files in a directory
-* Removing a directory and its contents
-* Renaming a files
-* Finding files
-* Finding current working directory
-* Getting information about files.
-* Listing hidden files in directory.
+* [Deleting a file](Directories/Directories_DeleteAFile.md)
+* [Copying a file](Directories/Directories_CopyAFile.md)
+* [Moving a file](Directories/Directories_MoveAFile.md)
+* [Processing all files in a directory](Directories/Directories_ProcessingAllFiles.md)
+* [Removing a directory and its contents](Directories/Directories_Remove.md)
+* [Renaming a files](Directories/Directories_RenameFiles.md)
+* [Finding files](Directories/Directories_FindFiles.md)
+* [Finding current working directory](Directories/Directories_FindCWD.md)
+* [Getting information about files.](Directories/Directories_FileInformation.md)
+* [Listing hidden files in directory.](Directories/Directories_ListHiddenFiles.md)
 
 ## 7. Working with Files
 * File Reading
