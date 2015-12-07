@@ -36,7 +36,7 @@
 * [Checking whether a string is a valid number](Numbers/Numbers_StringIsValidNumber.md)
 
 ## 4. Working with Arrays
-* [Supported functions](Arrays/Arrays_SupportFunctions.md)
+* [Overall Array Support](Arrays/Arrays_SupportFunctions.md)
 * [Defining/creating arrays](Arrays/Arrays_CreateArray.md)
 * [Adding element to array](Arrays/Arrays_AddToArray.md)
 * [Deleting element from array](Arrays/Arrays_DeleteFromArray.md)
@@ -48,14 +48,15 @@
 * [Sorting array](Arrays/Arrays_Sort.md)
 
 ## 5. Working with Hash
-* Defining/creating hash
-* Adding element to hash
-* Deleting element from hash
-* Iterating over hash
-* Testing for presence of key in hash
-* Sorting hash
-* Merging hash
-* Inverting hash
+* [Overall Hash Support](Hashes/Hashes_OverallHashSupport.md)
+* [Defining/creating hash](Hashes/Hashes_Create.md)
+* [Adding element to hash](Hashes/Hashes_AddElement.md)
+* [Deleting element from hash](Hashes/Hashes_DeleteElement.md)
+* [Iterating over hash](Hashes/Hashes_Iterate.md)
+* [Testing for presence of key in hash](Hashes/Hashes_TestForKey.md)
+* [Sorting hash](Hashes/Hashes_Sort.md)
+* [Merging hash](Hashes/Hashes_Merge.md)
+* [Inverting hash](Hashes/Hashes_Invert.md)
 
 ## 6. Working with Directories
 * Deleting a file
