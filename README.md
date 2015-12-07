@@ -36,16 +36,16 @@
 * [Checking whether a string is a valid number](Numbers/Numbers_StringIsValidNumber.md)
 
 ## 4. Working with Arrays
-* Defining/creating arrays
-* Adding element to array
-* Deleting element from array.
-* Array iteration
-* Iterating over array by reference
-* Extracting unique elements from a list
-* Appending one array to another
-* Reversing array
-* Finding first element that passes a test
-* Sorting array
+* [Supported functions](Arrays/Arrays_SupportFunctions.md)
+* [Defining/creating arrays](Arrays/Arrays_CreateArray.md)
+* [Adding element to array](Arrays/Arrays_AddToArray.md)
+* [Deleting element from array](Arrays/Arrays_DeleteFromArray.md)
+* [Array iteration](Arrays/Arrays_IterateArray.md)
+* [Iterating over array by reference](Arrays/Arrays_IterateArrayByReference.md)
+* [Extracting unique elements from a list](Arrays/Arrays_ExtractUniqueElements.md)
+* [Appending one array to another](Arrays/Arrays_AppendArrays.md)
+* [Reversing array](Arrays/Arrays_Reverse.md)
+* [Sorting array](Arrays/Arrays_Sort.md)
 
 ## 5. Working with Hash
 * Defining/creating hash
