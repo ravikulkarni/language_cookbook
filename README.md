@@ -1,5 +1,46 @@
 # Language Cookbook
 
+## Notes for the readers
+
+The code sections in these book have been tested using tools below
+
+### Java version - 
+```
+java version "1.7.0"
+Java(TM) SE Runtime Environment (build 1.7.0-b147)
+Java HotSpot(TM) Client VM (build 21.0-b17, mixed mode, sharing)
+```
+
+### C version 
+Using built-in specs.
+```
+COLLECT_GCC=gcc
+COLLECT_LTO_WRAPPER=/usr/libexec/gcc/i686-redhat-linux/4.6.2/lto-wrapper
+Target: i686-redhat-linux
+Configured with: ../configure --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-bootstrap --enable-shared --enable-threads=posix --enable-checking=release --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --enable-languages=c,c++,objc,obj-c++,java,fortran,ada,go,lto --enable-plugin --enable-java-awt=gtk --disable-dssi --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-1.5.0.0/jre --enable-libgcj-multifile --enable-java-maintainer-mode --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --disable-libjava-multilib --with-ppl --with-cloog --with-tune=generic --with-arch=i686 --build=i686-redhat-linux
+Thread model: posix
+gcc version 4.6.2 20111027 (Red Hat 4.6.2-1) (GCC)
+```
+
+### Perl version
+```
+perl 5, version 14, subversion 2 (v5.14.2) built for i386-linux-thread-multi
+```
+
+### Bash version
+```
+GNU bash, version 4.2.10(1)-release (i386-redhat-linux-gnu)
+```
+This book is not meant to teach language. A general information about Java,Perl, C and bash is required to understand this book.
+
+There are more than one way to do a particular thing. I have shown one way of doing things. 
+ 
+Not each and every item has functions available in the languages. For example some things may not be available as core functions in bash. In these cases, I have described how to do those things in remaining languages.
+
+The code sections in the book have code lines that are related to the section in which the code is written. I have avoided giving complete sample program. I have just put down the relevant lines. For example, the code lines in the Java have to be part of some block (either method, or other blocks) which I have not added to the sample code.
+
+As much as possible, I have tried to describe solution without using third party modules. However in some cases the 3rd party module may be a better solution. In those cases, I have shown how to do things using those modules.
+
 ## 1. Language Basics
 * [Variables](Basics/Basics_Variables.md#variables)
   * [Getting environment variables](Basics/Basics_Variables.md#getting-environment-variables)
