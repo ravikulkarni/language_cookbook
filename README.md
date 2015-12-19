@@ -112,19 +112,17 @@ As much as possible, I have tried to describe solution without using third party
 * [Listing hidden files in directory.](Directories/Directories_ListHiddenFiles.md)
 
 ## 7. Working with Files
-* File Reading
-* File Writing
-* Searching for a string in a file
-* Using Standard output handle
-* Using Standard error handle
-* Keeping files from accidental overwriting.
-* Counting lines, words or characters in file
-* Removing duplicate lines
-* Locking a file
-* Flushing output
-* Doing a non blocking IO
-* Finding number of unread bytes.
-* Using random access IO
+* [File Reading](Files/Files_FileRead.md)
+* [File Writing](Files/Files_FileWrite.md)
+* [Searching for a string in a file](Files/Files_SearchString.md)
+* [Using Standard output handle](Files/Files_UseSTDOUT.md)
+* [Using Standard error handle](Files/Files_UseSTDERR.md)
+* [Counting lines, words or characters in file](Files/Files_CountLinesWordsChars.md)
+* [Removing duplicate lines](Files/Files_RemoveDuplicateLines.md)
+* [Locking a file](Files/Files_LockFiles.md)
+* [Flushing output](Files/Files_FlushOutput.md)
+* [Finding number of unread bytes.](Files/Files_UnreadBytes.md)
+* [Using random access IO](Files/Files_RandomIO.md)
 
 ## 8. Working with Dates and Time
 * [Getting default dates](DatesAndTime/DatesAndTime_GetDefaultDate.md)
